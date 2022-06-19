@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+nav.navbar div.container a.navbar-brand {
+  font-family: "Kaushan Script", cursive;
+}
+
+nav.navbar div.container a.navbar-link {
+  font-family: "Roboto Condensed", sans-serif;
+}
